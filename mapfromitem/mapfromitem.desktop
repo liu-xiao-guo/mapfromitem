@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=mapfromitem
+Exec=qmlscene %U mapfromitem/Main.qml
+Icon=mapfromitem/mapfromitem.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

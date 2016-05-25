@@ -1,0 +1,17 @@
+{
+    "name": "mapfromitem.liu-xiao-guo",
+    "description": "description of mapfromitem",
+    "architecture": "@CLICK_ARCH@",
+    "title": "mapfromitem",
+    "hooks": {
+        "mapfromitem": {
+            "apparmor": "mapfromitem/mapfromitem.apparmor",
+            "desktop":  "mapfromitem/mapfromitem.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
